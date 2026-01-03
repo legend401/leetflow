@@ -3,7 +3,7 @@
 > **Turn your LeetCode grind into a content engine.**
 > Automatically generate high-quality explanations for your solutions and thread them on Twitter/X to build your #BuildInPublic streak.
 
-![LeetFlow Dashboard](./public/dashboard-preview.png)
+![LeetFlow Dashboard](./web/public/leetflowss2-.jpeg)
 
 ## 🚀 Features
 
@@ -63,6 +63,8 @@ Open [http://localhost:3000](http://localhost:3000).
 4.  **Ship**: Click "Post Changes".
     - LeetFlow creates a public Gist.
     - LeetFlow appends a tweet to your daily thread with the Gist link.
+
+![LeetFlow Dashboard](./web/public/leetflowss.jpeg)
 
 ## 🤝 Contributing
 
